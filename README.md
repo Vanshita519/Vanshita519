@@ -2,7 +2,7 @@ Hi there, I'm Vanshita Sabnani! 👋
 
  About Me
 
-I'm a BBA student at Devi Ahilya Vishwavidyalaya (DAVV) with a deep passion for technology, coding, and web development. Despite coming from a commerce background, I have actively explored and developed my technical skills by working on AI-based projects, websites, applications, and data analysis. My curiosity and enthusiasm for technology have led me to self-learn various programming languages, frameworks, and tools, enabling me to work on multiple interdisciplinary projects.
+I'm a BBA student with a deep passion for technology, coding, and web development. Despite coming from a commerce background, I have actively explored and developed my technical skills by working on AI-based projects, websites, applications, and data analysis. My curiosity and enthusiasm for technology have led me to self-learn various programming languages, frameworks, and tools, enabling me to work on multiple interdisciplinary projects.
 
 I enjoy problem-solving, building innovative solutions, and continuously learning new technologies. From creating user-friendly web applications to analyzing data for meaningful insights, I strive to bridge the gap between business and technology. My expertise spans across front-end and back-end development, artificial intelligence, machine learning, and data analytics, making me a versatile tech enthusiast ready to take on new challenges.
 
